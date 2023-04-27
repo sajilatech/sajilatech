@@ -29,7 +29,7 @@ Insights
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Freelance]**
+- 🔭 I’m currently working as PHP Developer in India
 
 - 🌱 I’m currently learning **New Software Development courses.**
 
